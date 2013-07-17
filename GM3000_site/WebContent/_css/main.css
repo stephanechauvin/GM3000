@@ -1,0 +1,50 @@
+/* CSS */
+
+* {
+	font-family: helvetica, verdana;
+	font-size: 18px;
+	letter-spacing:1px;
+	/*font-variant: small-caps;*/
+	color: #666666;
+}
+
+body {
+	background-color: black;
+}
+
+
+#container 
+{
+	margin:150px auto;
+	width:800px;
+	min-height: 400px; 
+	
+}
+
+
+#menu 
+{
+	width:150px;
+	min-height: 400px; 
+	float:left;
+	padding: 0 20px;
+	text-align:right;
+}
+
+#menu ul
+{
+	list-style-type: none;
+}
+
+#menu ul li
+{
+	margin:6px 0;
+	width: 120px;
+}
+
+#content 
+{
+	width:600px;
+	float:left;
+}
+

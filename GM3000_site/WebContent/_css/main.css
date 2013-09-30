@@ -1,7 +1,7 @@
 /* CSS */
 
 * {
-	font-family: helvetica, verdana;
+	font-family: Play, helvetica, verdana;
 	font-size: 18px;
 	letter-spacing:1px;
 	/*font-variant: small-caps;*/
@@ -13,19 +13,19 @@ body {
 }
 
 
-#container 
+#container
 {
 	margin:150px auto;
 	width:800px;
-	min-height: 400px; 
-	
+	min-height: 400px;
+
 }
 
 
-#menu 
+#menu
 {
 	width:150px;
-	min-height: 400px; 
+	min-height: 400px;
 	float:left;
 	padding: 0 20px;
 	text-align:right;
@@ -42,7 +42,7 @@ body {
 	width: 120px;
 }
 
-#content 
+#content
 {
 	width:600px;
 	float:left;

@@ -42,7 +42,12 @@ body {
 	font-size: 18px;
 }
 
-#menu ul li.active
+#menu ul li a
+{
+	text-decoration: none;
+}
+
+#menu ul li.active a
 {
 	color: #CCCCCC;
 }
